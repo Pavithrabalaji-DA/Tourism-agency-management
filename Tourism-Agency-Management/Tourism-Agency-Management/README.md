@@ -1,7 +1,6 @@
 # Patika Tourism Agency Software
 Patika Tourism Agency is ready for digital transformation. The Hotels Management System aims to optimize daily operations and expedite reservations with features like user-friendly interface, flexible pricing, and automated calculations, enhancing efficiency and replacing manual tasks.
 
-[![Semih Turan Github Account](/assets/banner.png "Semih Turan Github Account")](https://github.com/semih-turan)
 
 ## Features
 
@@ -21,21 +20,6 @@ Patika Tourism Agency is ready for digital transformation. The Hotels Management
 - Swing is used for the user interface.
 - The project follows a multi-layered architecture.
 
-## Installation
-
-1. Clone the project:
-    ```bash
-    git clone https://github.com/semih-turan/Tourism-Agency-Management.git
-    ```
-2. Install PostgreSQL.
-3. Create a new database named `toursimAgencyManagemennt` in PostgreSQL.
-4. Restore this database using the SQL file located at `SQL/tourismAgencyManagement.sql` and named `tourismAgencyManagement.sql`.
-5. Update the PostgreSQL username and password from the file located at `Tourism-Agency-Management/src/Log/DBconfigure.properties`.
-6. Compile and run the program with an IDE.
-
-***P.S:*** *Default admin login credentials*
-*Username: admin*
-*Password: admin*
 
 ## Video
 [<img src="/assets/logo.png" width="75%">](https://www.youtube.com/watch?v=O9jJBuAfaz4 "Tourism Agency Management Demo Video")
@@ -69,7 +53,7 @@ Patika Tourism Agency is ready for digital transformation. The Hotels Management
 
 ## Contributions
 
-- Feel free to provide any feedback to [semituran@gmail.com](mailto:semituran@gmail.com).
+- Feel free to provide any feedback to [pavithrabalajie@gmail.com](mailto:pavithrabalajie@gmail.com).
 - If you want to contribute to the project, you can open a pull request.
 
 ## License
